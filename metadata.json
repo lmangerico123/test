@@ -1,0 +1,5 @@
+{
+  "name": "Planejador de Jantar de Natal",
+  "description": "Uma aplicação web para ajudar a organizar um jantar de Natal, permitindo que os participantes proponham e votem em datas e opções de menu.",
+  "requestFramePermissions": []
+}
